@@ -99,8 +99,8 @@ How to Use
 - Yield Prediction: Input `State_Name`, `District_Name`, `Crop_Year`, `Season`, `Crop`, `Area`, `Production` to get predicted yields for that crop and location.
 
 ## Contributors
-- AB Shetty
+- Vijaykumar Guggari
 - ChatGPT 3.5 Turbo
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License].
